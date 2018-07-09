@@ -4,6 +4,7 @@ title: pandas基础
 date: 2018-07-09
 tags: python
 ---
+
 # pandas是什么？
 - pandas是基于Numpy的一个python数据分析包，主要目的是为了数据分析，提供了大量高级的数据结构和对数据处理的方法.
 - pandas 有两个主要的数据结构：Series 和 DataFrame。
